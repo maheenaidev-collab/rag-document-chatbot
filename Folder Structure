@@ -1,0 +1,10 @@
+rag-document-chatbot
+│
+├── data
+│
+├── embeddings
+│
+├── app.py
+├── ingest.py
+├── requirements.txt
+└── README.md
