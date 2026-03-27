@@ -1,0 +1,8 @@
+langchain
+faiss-cpu
+pypdf
+openai
+streamlit
+
+
+pip install -r requirements.txt
